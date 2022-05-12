@@ -1,0 +1,47 @@
+.red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+.big {
+    font-size:2em;
+}
+
+.small {
+    font-size: .5em;
+}
+
+.align {
+    text-align: center;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.multi {
+    color: orange;
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.styledFont {
+    color: lime;
+}
+
+#styledImage {
+    background-image: radial-gradient(rgb(173, 221, 255), rgb(0, 117, 226));
+    border-width: 20px;
+    border-color: orange;
+    border-style: solid;
+    padding:60px;
+}
+
